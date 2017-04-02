@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: c7641cd567ad2d541b7c0fd8e8878198
+timeCreated: 1491061149
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Soft Marshmallow
+  fontNames:
+  - Soft Marshmallow
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
